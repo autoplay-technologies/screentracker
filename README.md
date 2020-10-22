@@ -20,7 +20,7 @@ yarn add screentracker
 ## Usage
 
 Screentracker functions require a config object containing information about the client app and current version.
-Config objects are available in the [Screentracker Dashboard](https://dashboard.screentracker.com/).
+Config objects are available in the [Screentracker Dashboard](https://dashboard.screentracker.io/).
 
 <!-- prettier-ignore -->
 ```js
